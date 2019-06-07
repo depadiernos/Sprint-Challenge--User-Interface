@@ -33,7 +33,7 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
-    Semantic HTML is a group of html tags (elements) that has been accepted as a standard to make it easier to read the html and know what part is what. For example, <header>, <footer> and <nav>, instead of <div>, <div> and <div>.
+    Semantic HTML is a group of html tags (elements) that has been accepted as a standard to make it easier to read the html and know what part is what. For example, `<header>`, `<footer>` and `<nav>`, instead of `<div>`, `<div>` and `<div>`.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
     `block` stacks elements from top to bottom, while `inline` puts each elements on the same row -- left to right.
